@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">JetGithub</string>
+    <string name="subtitle_app">Jetpack Compose Github</string>
+    <string name="version_app">Version 1.0</string>
+</resources>

@@ -1,7 +1,12 @@
-# mvvm-android-volley
-learning android MVVM Volley
+# JetGithub App
+## Example project using jetpack Compose ( ON PROGRESS )
 
-Starter Project aplikasi Android MVVM mengunakan networking Volley
+### Feature : 
+
+### Library resources:
+
+### Api resource
+Github Rest API : https://docs.github.com/en/rest
 
 
 
